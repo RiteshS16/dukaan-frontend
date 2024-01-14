@@ -1,5 +1,5 @@
 import React from 'react';
-import ColumnFilter from './GlobalFilter';
+
 
 
 const renderCurrencyColumn = (cell) => {
@@ -63,6 +63,126 @@ export const DATA=[{
         orderId:'#20000',
         orderDate:'12Jan23',
         orderAmount:239,
+        transactionFees:22
+    },
+    {
+        orderId:'#20000',
+        orderDate:'12Jan23',
+        orderAmount:234,
+        transactionFees:22
+    },
+    {
+        orderId:'#20000',
+        orderDate:'12Jan23',
+        orderAmount:234,
+        transactionFees:22
+    },
+    {
+        orderId:'#20000',
+        orderDate:'12Jan23',
+        orderAmount:234,
+        transactionFees:22
+    },
+    {
+        orderId:'#20000',
+        orderDate:'12Jan23',
+        orderAmount:234,
+        transactionFees:22
+    },
+    {
+        orderId:'#20000',
+        orderDate:'12Jan23',
+        orderAmount:234,
+        transactionFees:22
+    },
+    {
+        orderId:'#20000',
+        orderDate:'12Jan23',
+        orderAmount:234,
+        transactionFees:22
+    },
+    {
+        orderId:'#20000',
+        orderDate:'12Jan23',
+        orderAmount:234,
+        transactionFees:22
+    },
+    {
+        orderId:'#20000',
+        orderDate:'12Jan23',
+        orderAmount:234,
+        transactionFees:22
+    },
+    {
+        orderId:'#20000',
+        orderDate:'12Jan23',
+        orderAmount:234,
+        transactionFees:22
+    },
+    {
+        orderId:'#20000',
+        orderDate:'12Jan23',
+        orderAmount:234,
+        transactionFees:22
+    },
+    {
+        orderId:'#20000',
+        orderDate:'12Jan23',
+        orderAmount:234,
+        transactionFees:22
+    },
+    {
+        orderId:'#20000',
+        orderDate:'12Jan23',
+        orderAmount:234,
+        transactionFees:22
+    },
+    {
+        orderId:'#20000',
+        orderDate:'12Jan23',
+        orderAmount:234,
+        transactionFees:22
+    },
+    {
+        orderId:'#20000',
+        orderDate:'12Jan23',
+        orderAmount:234,
+        transactionFees:22
+    },
+    {
+        orderId:'#20000',
+        orderDate:'12Jan23',
+        orderAmount:234,
+        transactionFees:22
+    },
+    {
+        orderId:'#20000',
+        orderDate:'12Jan23',
+        orderAmount:234,
+        transactionFees:22
+    },
+    {
+        orderId:'#20000',
+        orderDate:'12Jan23',
+        orderAmount:234,
+        transactionFees:22
+    },
+    {
+        orderId:'#20000',
+        orderDate:'12Jan23',
+        orderAmount:234,
+        transactionFees:22
+    },
+    {
+        orderId:'#20000',
+        orderDate:'12Jan23',
+        orderAmount:234,
+        transactionFees:22
+    },
+    {
+        orderId:'#20000',
+        orderDate:'12Jan23',
+        orderAmount:234,
         transactionFees:22
     },
     {
